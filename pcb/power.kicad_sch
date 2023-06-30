@@ -6,8 +6,8 @@
 
   (title_block
     (title "Qeteshs AC-Controller")
-    (date "~DATE~")
-    (rev "~VERSION~")
+    (date "${DATE}")
+    (rev "${VERSION}")
   )
 
   (lib_symbols
