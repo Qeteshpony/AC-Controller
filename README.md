@@ -1,5 +1,7 @@
 # Qeteshs AC-Controller
 
+[![CI](https://github.com/Qeteshpony/AC-Controller/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Qeteshpony/AC-Controller/actions/workflows/ci.yml)
+
 Simple controller for IoT devices with ESP-Home and Home Assistant in mind. This project was mainly started to get better control for our AC system but I guess it can be adapted for about anything. 
 
 The system is based on an ESP32 module, a small LCD and two rotary encoders with optional support for charging and using a LiPo battery. 
