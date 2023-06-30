@@ -578,7 +578,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp ff13f6ac-1b0a-4a3a-bdcc-622e911f1e25)
     )
-    (fp_text value "3.3uH" (at 0 -4.75 unlocked) (layer "F.Fab")
+    (fp_text value "DR74-3R3-R" (at 0 -4.75 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c2cda0d2-98a2-4667-b030-1e41b25e4c60)
     )
@@ -600,6 +600,11 @@
       (net 46 "Net-(U2-L2)") (pintype "passive") (thermal_bridge_width 0.5) (thermal_bridge_angle 45) (tstamp 6f730917-a612-45ec-aee0-d550a973c61d))
     (pad "2" smd roundrect (at 3.2 0 90) (size 3.25 3) (property pad_prop_heatsink) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 47 "Net-(U2-L1)") (pintype "passive") (thermal_bridge_width 0.5) (thermal_bridge_angle 45) (tstamp 36dc25d6-2b14-47f1-8b40-62b52d8b3475))
+    (model ":KICAD7_3DMODEL_DIR:Inductor_SMD.3dshapes/L_Bourns_SRR1260.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 0.6 0.6 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Resistor_SMD:R_0603_1608Metric" (layer "F.Cu")
@@ -1882,7 +1887,7 @@
           )
           (width 0) (fill yes))
       ) (tstamp 4841829d-a405-457b-bcf2-dca3e0b673ac))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_DRC0010J.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Package_SON.3dshapes/Texas_S-PVSON-N10.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2054,7 +2059,7 @@
           )
           (width 0) (fill yes))
       ) (tstamp 526c3521-aa52-4fe5-8b04-5ba05829740b))
-    (model "${KICAD6_3DMODEL_DIR}/Package_SON.3dshapes/Texas_DRC0010J.wrl"
+    (model ":KICAD7_3DMODEL_DIR:Package_SON.3dshapes/Texas_S-PVSON-N10.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -2541,7 +2546,7 @@
         (effects (font (size 0.8 0.8) (thickness 0.15)))
       (tstamp 41876b14-b80b-48f9-827c-e81bf484b912)
     )
-    (fp_text value "3.3uH" (at 0 -4.75 90 unlocked) (layer "F.Fab")
+    (fp_text value "DR74-3R3-R" (at 0 -4.75 90 unlocked) (layer "F.Fab")
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp c95f1b4a-922b-410c-8a7b-8c7c5fd49ec8)
     )
@@ -2563,6 +2568,11 @@
       (net 48 "Net-(U3-L2)") (pintype "passive") (thermal_bridge_angle 45) (tstamp c5f6b7b5-de34-48dd-a730-aa1a00537798))
     (pad "2" smd roundrect (at 3.2 0 180) (size 3.25 3) (property pad_prop_heatsink) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
       (net 49 "Net-(U3-L1)") (pintype "passive") (thermal_bridge_angle 45) (tstamp 4cfb191a-8e33-4240-b804-e1d480de868f))
+    (model ":KICAD7_3DMODEL_DIR:Inductor_SMD.3dshapes/L_Bourns_SRR1260.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 0.6 0.6 0.5))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Package_TO_SOT_SMD:SOT-23" (layer "F.Cu")
@@ -3059,6 +3069,11 @@
       (net 7 "/Power/V_{BUS}") (pinfunction "CE") (pintype "input") (tstamp 37b431a1-7eb3-478c-a638-ec9a78ba40cf))
     (pad "9" smd rect (at 0 0) (size 2.413 3.302) (layers "F.Cu" "F.Mask")
       (net 1 "GND") (pinfunction "EP") (pintype "passive") (tstamp 53d76345-141f-41a4-a029-bde79b7d5a0b))
+    (model ":KICAD7_3DMODEL_DIR:Package_SO.3dshapes/HTSOP-8-1EP_3.9x4.9mm_Pitch1.27mm.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Capacitor_SMD:C_0603_1608Metric" (layer "F.Cu")
