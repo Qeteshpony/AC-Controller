@@ -2200,7 +2200,7 @@
     (property "Value" "Contrast" (at 248.158 108.974 0)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Footprint" "Potentiometer_SMD:Potentiometer_Bourns_3224J_Horizontal" (at 246.38 107.95 0)
+    (property "Footprint" "Potentiometer_THT:Potentiometer_Runtron_RM-065_Vertical" (at 246.38 107.95 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 246.38 107.95 0)
