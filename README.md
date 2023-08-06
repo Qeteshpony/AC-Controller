@@ -16,6 +16,6 @@ The PCB has two positions for a USB-C port, both are wired in parallel so only o
 
 The display I use is the `DEM 16226 SYH-LY` which is smaller than most 16x2 character displays and available from several retailers. The board most likely needs major changes to be used with another display since the connector is in a different position to most.
 
-I also got shorter 2.54mm pins that only raise the display by about 8mm from the main board so everything is more compact.
+I also got shorter 2.54mm headers that only raise the display by about 8mm from the main board so everything is more compact.
 
 The battery used is a 2500 mAH LiPo cell calles `LP-785060` with built in protection circuit and about the same measurements as the board so it fits neatly underneath it. 
