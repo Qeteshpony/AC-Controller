@@ -1788,7 +1788,7 @@
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 68a9c35e-286d-451f-b43e-c802ec569904)
   )
-  (label "EN" (at 62.23 45.72 180) (fields_autoplaced)
+  (label "~{RESET}" (at 62.23 45.72 180) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid 6aab5aaa-a178-4ec1-be0a-0f590ffb784f)
   )
