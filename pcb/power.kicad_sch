@@ -2112,7 +2112,7 @@
   (symbol (lib_id "Transistor_FET:AO3400A") (at 113.03 59.69 90) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 28d3dee1-60ba-48c2-b6e1-f0bd7a98966b)
-    (property "Reference" "Q5" (at 113.03 65.667 90)
+    (property "Reference" "Q3" (at 113.03 65.667 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AO3400A" (at 113.03 67.715 90)
@@ -2133,7 +2133,7 @@
     (instances
       (project "AC-Controller"
         (path "/a9b77c2b-ed0c-4412-867d-4d65898d0fc4/dbf41f99-e34f-4894-8335-e67b95846d1b"
-          (reference "Q5") (unit 1)
+          (reference "Q3") (unit 1)
         )
       )
     )
