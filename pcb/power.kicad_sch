@@ -2140,6 +2140,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 755cb2b4-6f40-46bc-875d-15692906fc53)
   )
+  (label "B_{dis}" (at 138.43 63.5 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 803f8885-d320-4b6d-8829-61b2c6ba6925)
+  )
   (label "V_{BUS}" (at 170.18 190.5 270) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify right bottom))
     (uuid a2c97d87-eb9e-4b08-9221-97f825b232a4)
@@ -2696,7 +2700,7 @@
   (symbol (lib_id "Transistor_FET:AO3400A") (at 125.73 67.31 270) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 73e8de8e-24d0-4dd2-9894-e48ecf777a4a)
-    (property "Reference" "Q8" (at 125.73 73.287 90)
+    (property "Reference" "Q4" (at 125.73 73.287 90)
       (effects (font (size 1.27 1.27)))
     )
     (property "Value" "AO3400A" (at 125.73 75.335 90)
@@ -2717,7 +2721,7 @@
     (instances
       (project "AC-Controller"
         (path "/a9b77c2b-ed0c-4412-867d-4d65898d0fc4/dbf41f99-e34f-4894-8335-e67b95846d1b"
-          (reference "Q8") (unit 1)
+          (reference "Q4") (unit 1)
         )
       )
     )

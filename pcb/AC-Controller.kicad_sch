@@ -2200,7 +2200,7 @@
   (symbol (lib_id "Transistor_FET:BSS84") (at 250.19 105.41 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 0530d9b7-3da5-4bde-a7b9-149deb3badd5)
-    (property "Reference" "Q6" (at 255.397 106.434 0)
+    (property "Reference" "Q7" (at 255.397 106.434 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BSS84" (at 255.397 104.386 0)
@@ -2218,7 +2218,7 @@
     (instances
       (project "AC-Controller"
         (path "/a9b77c2b-ed0c-4412-867d-4d65898d0fc4"
-          (reference "Q6") (unit 1)
+          (reference "Q7") (unit 1)
         )
       )
     )
@@ -2852,7 +2852,7 @@
   (symbol (lib_id "Transistor_FET:BSS84") (at 250.19 92.71 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 7454fc10-ef9f-414f-a638-e9ceeb732211)
-    (property "Reference" "Q5" (at 255.397 93.734 0)
+    (property "Reference" "Q6" (at 255.397 93.734 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BSS84" (at 255.397 91.686 0)
@@ -2870,7 +2870,7 @@
     (instances
       (project "AC-Controller"
         (path "/a9b77c2b-ed0c-4412-867d-4d65898d0fc4"
-          (reference "Q5") (unit 1)
+          (reference "Q6") (unit 1)
         )
       )
     )
@@ -3302,7 +3302,7 @@
   (symbol (lib_id "Transistor_FET:BSS84") (at 250.19 118.11 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid a7ac137e-050d-4585-9faa-ce985c2106b5)
-    (property "Reference" "Q7" (at 255.397 119.134 0)
+    (property "Reference" "Q8" (at 255.397 119.134 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BSS84" (at 255.397 117.086 0)
@@ -3320,7 +3320,7 @@
     (instances
       (project "AC-Controller"
         (path "/a9b77c2b-ed0c-4412-867d-4d65898d0fc4"
-          (reference "Q7") (unit 1)
+          (reference "Q8") (unit 1)
         )
       )
     )
@@ -3437,7 +3437,7 @@
   (symbol (lib_id "Transistor_FET:BSS84") (at 250.19 80.01 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid bf9768b8-d9a1-4ef7-be72-2489d9b20551)
-    (property "Reference" "Q4" (at 255.397 81.034 0)
+    (property "Reference" "Q5" (at 255.397 81.034 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "BSS84" (at 255.397 78.986 0)
@@ -3455,7 +3455,7 @@
     (instances
       (project "AC-Controller"
         (path "/a9b77c2b-ed0c-4412-867d-4d65898d0fc4"
-          (reference "Q4") (unit 1)
+          (reference "Q5") (unit 1)
         )
       )
     )
