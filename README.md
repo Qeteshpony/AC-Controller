@@ -18,4 +18,4 @@ The display I use is the `DEM 16226 SYH-LY` which is smaller than most 16x2 char
 
 I also got shorter 2.54mm headers that only raise the display by about 8mm from the main board so everything is more compact.
 
-The battery used is a 2500 mAH LiPo cell calles `LP-785060` with built in protection circuit and about the same measurements as the board so it fits neatly underneath it. 
+The battery used is a 2500 mAH LiPo cell called `LP-785060` with built in protection circuit and about the same measurements as the board so it fits neatly underneath it. 
